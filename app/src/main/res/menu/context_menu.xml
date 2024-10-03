@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/saveAs"
+        android:title="@string/save_as">SaveAs</item>
+    <item android:id="@+id/save"
+        android:title="@string/save">Save</item>
+    <item android:id="@+id/copy"
+        android:title="@string/copy">Copy</item>
+    <item android:id="@+id/paste"
+        android:title="@string/paste">Paste</item>
+    <item android:title="@string/copy_link">Copy Link</item>
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sep_24_ContextMenu_Demo</string>
+    <string name="save_as">save_as</string>
+    <string name="save">save</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+    <string name="copy_link">copy_link</string>
+    <string-array name="names">
+        <item>Sanket</item>
+        <item>Kartik</item>
+        <item>Rohit</item>
+        <item>Anushka</item>
+        <item>Priyanka</item>
+    </string-array>
+</resources>
